@@ -2,7 +2,7 @@
 
 📺 **YouTube Channel:** [Code Journey with Prem](https://www.youtube.com/@PremKambaliya)
 
-Here are my video explanations for 15 LeetCode problems:
+Here are my video explanations for 19 LeetCode problems:
 
 1. **LeetCode Two Sum | Problem #1 Explained with Code | DSA Journey Begins 🚀**
    - [Watch Video Solution](https://youtu.be/dOd1MacfSos?si=Uyb11ZSy08EJ_v2K)
@@ -93,6 +93,31 @@ Here are my video explanations for 15 LeetCode problems:
     - Difficulty: Easy
     - Topics: Array
     - Day : 15
+
+16. **Jewels and Stones | Leetcode 771 | JavaScript Solution | Code Journey With Prem**
+   - [Watch Video Solution](https://youtu.be/m7Ys-WtZGHg?si=fL4IQn7VGznL8nTE)
+   - Difficulty: Easy
+   - Topics: String
+   - Day : 16
+
+17. **LeetCode 1678 - Goal Parser Interpretation | JavaScript Solution | DSA Series Day 17**
+   - [Watch Video Solution](https://youtu.be/nvlVqLw3ZOg?si=I30OKW85CdeY6opx)
+   - Difficulty: Easy
+   - Topics: String
+   - Day : 17
+
+18. **LeetCode 3110 - Score of a String | JavaScript Solution | DSA Series Day 18**
+   - [Watch Video Solution](https://youtu.be/p8nR_Ecrhm0?si=qViG4FGmMMrgmcvv)
+   - Difficulty: Easy
+   - Topics: String
+   - Day : 18
+
+19. **LeetCode 217 - Contains Duplicate | JavaScript Solution | DSA Series Day 19**
+   - [Watch Video Solution](https://youtu.be/xdaf0_HdB_k)
+   - Difficulty: Easy
+   - Topics: Array
+   - Day : 19
+
 
 ---
 
